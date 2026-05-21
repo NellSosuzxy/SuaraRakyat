@@ -2,7 +2,7 @@
 
 **Diploma In Information Technology - Mobile App Development - Final Project - Kolej Poly-Tech MARA (KPTM)**
 
-**Suara Rakyat** (Voice of the People) is an Android application designed to empower citizens to easily report and track issues within their community. Whether it's a security concern, an environmental hazard, or a social issue like bullying, this app provides a transparent platform to submit evidence, pinpoint locations, and track the resolution status of reports.
+**Suara Rakyat** is an Android application designed to empower citizens to easily report and track issues within their community. Whether it's a security concern, an environmental hazard, or a social issue like bullying, this app provides a transparent platform to submit evidence, pinpoint locations, and track the resolution status of reports.
 
 ---
 
