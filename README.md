@@ -1,10 +1,12 @@
-# 📱 Suara Rakyat
+#  Suara Rakyat
+
+**Diploma In Information Technology - Web API Development (TSE3613) - Final Project - Kolej Poly-Tech MARA (KPTM)**
 
 **Suara Rakyat** (Voice of the People) is an Android application designed to empower citizens to easily report and track issues within their community. Whether it's a security concern, an environmental hazard, or a social issue like bullying, this app provides a transparent platform to submit evidence, pinpoint locations, and track the resolution status of reports.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **User Authentication**: Secure Login and Registration system with role-based access (Citizen / Non-Citizen). Also supports "Guest Mode" for anonymous browsing.
 * **Issue Reporting**: Users can submit detailed reports including:
@@ -19,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 * **Language**: Kotlin
 * **Architecture**: Model-View-ViewModel (MVVM)
@@ -34,7 +36,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -46,7 +48,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/NellSosuzxy/SuaraRakyat.git
+   git clone https://github.com/your-username/suararakyat.git
    cd suararakyat
    ```
 
@@ -67,7 +69,7 @@
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 SUARARAKYAT/app/src/main/java/com/example/suararakyatv2/
@@ -86,7 +88,7 @@ SUARARAKYAT/app/src/main/java/com/example/suararakyatv2/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * **OAuth Integration**: Planned support for Google and Facebook Sign-In.
 * **Push Notifications**: Notify users when the status of their report changes.
@@ -95,6 +97,3 @@ SUARARAKYAT/app/src/main/java/com/example/suararakyatv2/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
