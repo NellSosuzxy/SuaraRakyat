@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322007517661",
+    "project_id": "suara-rakyat-57d3e",
+    "storage_bucket": "suara-rakyat-57d3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322007517661:android:5ea0b649ec49fad29fce34",
+        "android_client_info": {
+          "package_name": "com.example.suararakyatv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Wp4nJts1nWBzNjpBzUzfFDGOR91qHS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

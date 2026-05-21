@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Minimalist Palette -->
+    <color name="primary">#2563EB</color> <!-- Clean Blue -->
+    <color name="primary_variant">#1D4ED8</color>
+    <color name="background">#F8FAFC</color> <!-- Off-white background -->
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color> <!-- Dark slate for text -->
+    <color name="text_secondary">#64748B</color> <!-- Lighter slate for hints -->
+    <color name="outline">#E2E8F0</color> <!-- Soft border -->
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending">#F59E0B</color>
+    <color name="status_in_progress">#3B82F6</color>
+    <color name="status_resolved">#10B981</color>
+    <color name="status_default">#94A3B8</color>
+</resources>

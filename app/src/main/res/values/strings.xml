@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">suararakyatv2</string>
+    <string name="select_category_prompt">Select a category</string>
+
+    <string-array name="user_roles">
+        <item>Citizen</item>
+        <item>Non-Citizen</item>
+    </string-array>
+
+    <string-array name="category_options">
+        <item>Bullying</item>
+        <item>Environmental Issues</item>
+        <item>Security Issues</item>
+    </string-array>
+
+    <string name="bullying">Bullying</string>
+    <string name="environmental_issues">Environmental Issues</string>
+    <string name="security_issues">Security Issues</string>
+
+    <string-array name="status_options">
+        <item>Pending</item>
+        <item>In Progress</item>
+        <item>Action Taken</item>
+        <item>Resolved</item>
+    </string-array>
+
+    <!-- Refactored Strings -->
+    <string name="sign_in">Sign In</string>
+    <string name="signing_in">Signing In...</string>
+    <string name="login_success">Login successful!</string>
+    <string name="feature_in_development">Feature in development</string>
+    <string name="greeting_format">Hi, %1$s</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="use_current_location">Use Current Location</string>
+    <string name="file_selected">File Selected</string>
+    <string name="file_selection_cancelled">File Selection Cancelled</string>
+    <string name="submitting">Submitting...</string>
+    <string name="report_submitted_success">Report Submitted Successfully</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="error_required_field">This field is required</string>
+    <string name="fetching_location">Fetching location...</string>
+    <string name="location_rationale">Location is needed to automatically fill your current address</string>
+    <string name="no_reports_found">No reports found.</string>
+    <string name="error_invalid_category">Error: Invalid category.</string>
+    <string name="category_reports_format">%1$s Reports</string>
+    <string name="creating_account">Creating...</string>
+    <string name="account_created_success">Account created successfully!</string>
+    <string name="create_account">Create Account</string>
+    <string name="error_invalid_report_id">Error: Invalid Report ID</string>
+    <string name="saving_progress">Saving...</string>
+    <string name="save_status">Save Status</string>
+    <string name="action_successful">Action Successful</string>
+    <string name="join_community">Join Suara Rakyat community</string>
+    <string name="full_name_hint">Enter your full name</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="phone_hint">Enter your phone number</string>
+    <string name="password_hint">Create a password</string>
+    <string name="or_sign_up_with">or sign up with</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="already_have_account_sign_in">Already have an account? Sign In</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_subtitle">Sign in to your account to continue</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_divider">OR</string>
+    <string name="log_in">Log In</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="dont_have_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+
+    <!-- Report Strings -->
+    <string name="complaint_detail">Complaint Detail</string>
+    <string name="update_status">Update Status</string>
+    <string name="enter_feedback_to_user">Enter feedback to user</string>
+    <string name="save_updates">Save Updates</string>
+    <string name="quick_action_mark_resolved">Quick Action: Mark as Resolved</string>
+    <string name="issue_details">Issue Details</string>
+    <string name="location_and_evidence">Location &amp; Evidence</string>
+    <string name="click_to_upload">Click to upload file (Image/PDF)</string>
+    <string name="max_size">Max Size: 25MB</string>
+    <string name="submit_anonymously">Submit anonymously</string>
+
+    <!-- Refactored Detail Strings -->
+    <string name="error_report_id_not_found">Error: Report ID not found.</string>
+    <string name="report_not_found">Report not found.</string>
+    <string name="failed_to_load_report">Failed to load report details.</string>
+    <string name="enter_feedback_first">Please enter feedback before sending.</string>
+    <string name="report_updated_success">Report updated successfully!</string>
+    <string name="failed_to_update_report">Failed to update report.</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="name_not_found">Name not found</string>
+    <string name="user_not_found">User not found</string>
+    <string name="error_loading_name">Error loading name</string>
+    <string name="pdf_saved_to_downloads">PDF saved to Downloads</string>
+    <string name="error_generating_pdf_email">Could not generate PDF for emailing.</string>
+    <string name="no_email_client">No email client installed.</string>
+    <string name="pending_complaint_update_msg">The complaint is pending and can be updated.</string>
+    <string name="non_pending_complaint_update_msg">You can only update pending complaints.</string>
+    <string name="no_admin_feedback_yet">No feedback from admin yet.</string>
+    <string name="view_image">View Image</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="play_video">Play Video</string>
+    <string name="open_file">Open File</string>
+    <string name="submitted_on_format">Submitted on: %1$s</string>
+</resources>
